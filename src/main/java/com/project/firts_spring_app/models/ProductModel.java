@@ -6,6 +6,6 @@ import jakarta.persistence.Table;
 import java.io.Serializable;
 
 @Entity
-@Table(name = "TB_PRODUCTS")
+@Table(name = "TB_PRODUCTSgggg")
 public class ProductModel implements Serializable {
 }
